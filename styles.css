@@ -1,0 +1,28 @@
+.row{
+  display: flex;
+  padding-left: 40px;
+  text-align: center;
+  color:aqua;
+}
+.same{
+  margin:25px;
+}
+.header{
+  padding-left: 260px;
+  margin-top: 100px;
+  color: aqua;
+  font-size: ;
+  text-transform: capitalize;
+  
+}
+.fill{
+  border-style: solid;
+  border-width: px;
+  justify-content: center;
+  align-items: center;
+  width:700px;
+  margin-left: 200px;
+  background-color: black;
+
+
+}
